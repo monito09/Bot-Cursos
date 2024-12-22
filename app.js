@@ -95,7 +95,9 @@ const main = async () => {
         database: adapterDB,
     });
 
-    QRPortalWeb();
+
 };
 
-main();
+QRPortalWeb()
+
+main()
