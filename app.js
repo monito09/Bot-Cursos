@@ -98,6 +98,6 @@ const main = async () => {
 
 };
 
-QRPortalWeb({port:3000})
+QRPortalWeb()
 
 main()
