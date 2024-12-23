@@ -52,7 +52,7 @@ const flujoContacto = addKeyword(['2', 'contacto', 'hablar con personal'])
     .addAnswer('📞 Información de Contacto:')
     .addAnswer([
         '✅ *Teléfono*: +51 956 335 265',
-        '✅ *Email*: acatdemy@demy.com',
+        '✅ *Email*: acatdemy@cat-peru.com',
         '✅ *Instagram*: https://www.instagram.com/acatdemy3/',
         '✅ *Facebook*: https://www.facebook.com/cat.trujillo.edu',
     ])
@@ -70,7 +70,7 @@ const flujoCertificacion = addKeyword(['b', 'B', 'certificacion'])
 
 const flujoPagos = addKeyword(['a', 'A', 'pago', 'pagos'])
     .addAnswer('💳 Métodos de Pago:')
-    .addAnswer(['Aceptamos Yape a nombre de *Edwin Raul Mendoza Torres*.'])
+    .addAnswer(['Aceptamos Yape a nombre de *Centro de Altas Tecnologías E.I.R.L.*.'])
     .addAnswer('Escribe *"menu"* para regresar.');
 
 // Integrar todos los flujos
