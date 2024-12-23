@@ -70,7 +70,7 @@ const flujoCertificacion = addKeyword(['b', 'B', 'certificacion'])
 
 const flujoPagos = addKeyword(['a', 'A', 'pago', 'pagos'])
     .addAnswer('💳 Métodos de Pago:')
-    .addAnswer(['Aceptamos Yape a nombre de *Centro de Altas Tecnologías E.I.R.L.*.'])
+    .addAnswer(['Aceptamos Yape a nombre de *Centro de Altas Tecnologías E.I.R.L.*'])
     .addAnswer('Escribe *"menu"* para regresar.');
 
 // Integrar todos los flujos
